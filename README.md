@@ -1,3 +1,3 @@
 # .github
 
-Alphagov organisation health files
+HO-CTO organisation templates for all Github repositories.
